@@ -113,7 +113,10 @@ body a:hover{
 }
 
 
-
+.video{
+	width:600px;
+	height:366px;	
+}
 
 
 /*--about-Part-Starts-Here--*/
@@ -764,6 +767,7 @@ a.hvr-sweep-to-right:hover:before,a.hvr-sweep-to-right:focus:before,a.hvr-sweep-
 .contact {
   padding: 6em 0px;
 }
+
 }
 @media (max-width:1366px){
 .banner-top {
@@ -1276,9 +1280,19 @@ a.hvr-sweep-to-right:hover:before,a.hvr-sweep-to-right:focus:before,a.hvr-sweep-
   padding: 3em 0px;
 }
 
+.video{
+	width:100%;
 
-
+	
 }
+}
+
+
+
+
+
+
+
 @media (max-width:480px){
 .banner-top a img {
   width: 8.5%;
@@ -1409,6 +1423,14 @@ a.hvr-sweep-to-right:hover:before,a.hvr-sweep-to-right:focus:before,a.hvr-sweep-
   height: 30px;
 }
 #btn {display:none;}
+
+
+.video{
+	width:100%;
+
+	
+}
+
 }
 
 
